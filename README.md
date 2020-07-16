@@ -6,20 +6,20 @@ An analysis for the New York Citi Bike Program, which ia responsible for oversee
 
 Click [here](https://public.tableau.com/profile/aditya.bhatnagar3494#!/vizhome/2019CitiBikeAnalysis/MileageofBikes?publish=yes) to view the completed dashboard.
 
-<img src="Images/Chart_1.png" width="550" height="450">
+<img src="Images/Chart_1.png" width="650" height="450">
 
 <img src="Images/Chart_4.png" width="600" height="450">
 
-<img src="Images/Chart_2.png" width="550" height="450">
+<img src="Images/Chart_2.png" width="650" height="450">
 
-<img src="Images/Chart_3.png" width="550" height="450">
+<img src="Images/Chart_3.png" width="650" height="450">
 
 # Data Source
 https://www.citibikenyc.com/system-data
 
 # Findings
 1) During the year 2019, over 70% of the riders comprised of males while the 22% were female and the rest unknown. 
-<img src="Images/Gender.png" width="550" height="450">
+![](Images/Gender.png)
 
 2) Grove St. Path station followed by the Hamilton Park are the most popular starting as well as ending stations.
 <img src="Images/Top_Stations.png" width="550" height="450">
