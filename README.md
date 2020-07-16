@@ -8,7 +8,9 @@ Click [here](https://public.tableau.com/profile/aditya.bhatnagar3494#!/vizhome/2
 
 <img src="Images/Chart_1.png" width="650" height="450">
 
-<img src="Images/Chart_4.png" width="600" height="450">
+![](Images/Chart_4.png)
+
+<img src="Images/Chart_4.png" width="650" height="450">
 
 <img src="Images/Chart_2.png" width="650" height="450">
 
@@ -22,7 +24,7 @@ https://www.citibikenyc.com/system-data
 ![](Images/Gender.png)
 
 2) Grove St. Path station followed by the Hamilton Park are the most popular starting as well as ending stations.
-<img src="Images/Top_Stations.png" width="550" height="450">
+<img src="Images/Top_Stations.png" width="650" height="450">
 
 3) The weekday ridership is peaks during the months of Aug-Sep after which a steep fall is observered which reached its trough during the months of Jan-Feb. 
-<img src="Images/Weekday_Ridership.png" width="550" height="450">
+<img src="Images/Weekday_Ridership.png" width="650" height="450">
