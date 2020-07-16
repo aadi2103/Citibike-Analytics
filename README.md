@@ -14,9 +14,6 @@ Click [here](https://public.tableau.com/profile/aditya.bhatnagar3494#!/vizhome/2
 
 <img src="Images/Chart_3.png" width="650" height="450">
 
-# Data Source
-https://www.citibikenyc.com/system-data
-
 # Findings
 1) During the year 2019, over 70% of the riders comprised of males while the 22% were female and the rest unknown. 
 ![](Images/Gender.png)
@@ -26,3 +23,6 @@ https://www.citibikenyc.com/system-data
 
 3) The weekday ridership is peaks during the months of Aug-Sep after which a steep fall is observered which reached its trough during the months of Jan-Feb. 
 <img src="Images/Weekday_Ridership.png" width="650" height="450">
+
+# Data Source
+https://www.citibikenyc.com/system-data
