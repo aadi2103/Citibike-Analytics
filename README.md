@@ -1,6 +1,6 @@
 # Citibike-Analytics
 
-<img src="Images/Image_1.png" width="550" height="450">
+<img src="Images/Image_1.png" width="650" height="450">
 
 An analysis for the New York Citi Bike Program, which ia responsible for overseeing the largest bike sharing program for 200,000+ data points in the United States in order to generate business insights and visulize various trends during the entire 2019 year. 
 
