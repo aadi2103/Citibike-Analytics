@@ -8,7 +8,7 @@ Click [here](https://public.tableau.com/profile/aditya.bhatnagar3494#!/vizhome/2
 
 <img src="Images/Chart_1.png" width="550" height="450">
 
-<img src="Images/Chart_4.png" width="550" height="450">
+<img src="Images/Chart_4.png" width="550" height="550">
 
 <img src="Images/Chart_2.png" width="550" height="450">
 
