@@ -6,7 +6,7 @@ An analysis for the New York Citi Bike Program, which ia responsible for oversee
 
 Click [here](https://public.tableau.com/profile/aditya.bhatnagar3494#!/vizhome/2019CitiBikeAnalysis/MileageofBikes?publish=yes) to view the completed dashboard.
 
-![](Images/Chart_1.png)
+![](Images/Chart_1.png | width=100)
 
 ![](Images/Chart_4.png)
 
